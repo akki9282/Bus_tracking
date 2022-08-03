@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusTracking</string>
+    <string name="are_you">Are you a</string>
+    <string name="start">Let\'s get started!</string>
+    <string name="title_activity_driver">DriverActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_driver_tracking">DriverTrackingActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>
